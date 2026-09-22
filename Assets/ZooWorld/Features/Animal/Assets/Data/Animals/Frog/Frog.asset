@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcf4fde0bc5cec4f9e2e149750e5ef7, type: 3}
+  m_Name: Frog
+  m_EditorClassIdentifier: Assembly-CSharp::ZooWorld.Features.Animals.Runtime.Definitions.AnimalDefinition
+  <SpeciesId>k__BackingField: frog
+  <Prefab>k__BackingField:
+    m_AssetGUID: f72e0832bee587d419716616018af9dc
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+  <Role>k__BackingField: 0
+  <Movement>k__BackingField: {fileID: 11400000, guid: fa39174845d8abf4daab398f14e9282a, type: 2}
+  <SpawnWeight>k__BackingField: 1
+  <Power>k__BackingField: 1
